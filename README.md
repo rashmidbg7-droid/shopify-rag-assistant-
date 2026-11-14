@@ -422,3 +422,5 @@ Recommended next steps:
 6. Add hybrid retrieval if the corpus grows.
 7. Move from local NumPy search to FAISS, HNSW, pgvector, Pinecone, or Weaviate for larger corpora.
 8. Add deployment packaging for the Python backend and `frontend-js` production build.
+# shopify-rag-assistant-
+ AI-powered Shopify RAG Assistant
